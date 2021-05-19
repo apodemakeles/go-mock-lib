@@ -1,0 +1,6 @@
+# Binaries for programs and plugins
+.idea/
+*.iml
+bin/
+# OSX trash
+.DS_Store
